@@ -1,0 +1,13 @@
+?xml version="1.0"?>
+<info> 
+        <id>user_restauth</id>
+        <name>RestAuth user backend</name>
+        <description>Authenticate users by RestAuth.</description>
+        <licence>AGPL</licence>
+        <author>Mathias Ertl</author>
+        <require>5.0</require>
+        <shipped>true</shipped>
+        <types>
+                <authentication/>
+        </types>
+</info>
